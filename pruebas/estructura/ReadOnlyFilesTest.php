@@ -6,7 +6,7 @@
  * @noinspection ALL
  */
 declare(strict_types=1);
-
+$board->addCard(new AccelerateCard(4), 8);
 namespace tests\structure;
 
 use PHPUnit\Framework\TestCase;
